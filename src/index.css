@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav a.active{
+    text-decoration: underline;
+    color: green;
+}
